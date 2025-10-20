@@ -9,7 +9,7 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Mitch's <code>careGarden</code> and save to reload.
+          Mitchels <code>careGarden</code> and save to reload.
         </p>
         <p>
           <a
